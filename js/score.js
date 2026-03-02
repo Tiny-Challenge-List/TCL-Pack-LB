@@ -59,14 +59,6 @@ export function score(rank, percent, minPercent) {
     if (rank == 12) {
         return 750;
     }
-    //Impossable Endings Pack
-    if (rank == 13) {
-        return 650;
-    }
-    //Finni Pack
-    if (rank == 14) {
-        return 450;
-    }
     //Deco Pack 1
     if (rank == 15) {
         return 500;
