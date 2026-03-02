@@ -6,10 +6,5 @@
     "percentToQualify": "100",
     "verifier": "FoldedZero",
     "records": [
-        {
-            "user": "finni1505",
-            "hz": "240",
-            "percent": 100
-        }
     ]
 }
