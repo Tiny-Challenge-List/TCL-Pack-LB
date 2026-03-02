@@ -60,11 +60,11 @@ export function score(rank, percent, minPercent) {
         return 750;
     }
     //Deco Pack 1
-    if (rank == 15) {
+    if (rank == 13) {
         return 500;
     }
     // MP VC Pack
-    if (rank == 16) {
+    if (rank == 14) {
         return 50;
     }
 }
